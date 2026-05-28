@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 40px;
+  color: rgb(0, 0, 0);
+}
+
+p {
+  font-size: 18px;
+}
+
+a {
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 18px;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
